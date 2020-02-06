@@ -4,6 +4,6 @@ Este repositório, trata-se de um modelo de Machine Learning desenvolvido para a
 
 O modelo tem por responsibilidade, classificar se determinada ação em um sistema de navegação é ou não uma fraude.
 
-Este material, foi desenvolvido de acordo com um curso da Alura, Modelos Preditivos em Dados: Detecção de Fraudes.
+Este material, foi desenvolvido de acordo com o curso da Alura, Modelos Preditivos em Dados: Detecção de Fraudes.
 
 O curso foi de grande ajuda, pois, tinha a necessidade de desenvolver um modelo semelhante, porém, em situações diferentes.

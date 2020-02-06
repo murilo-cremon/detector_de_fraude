@@ -6,4 +6,4 @@ O modelo tem por responsibilidade, classificar se determinada ação em um siste
 
 Este material, foi desenvolvido de acordo com o curso da Alura, Modelos Preditivos em Dados: Detecção de Fraudes.
 
-O curso foi de grande ajuda, pois, tinha a necessidade de desenvolver um modelo semelhante, porém, em situações diferentes.
+O curso foi de grande ajuda, pois, no momento em minha carreira tinha-se a necessidade de desenvolver um modelo semelhante, porém, em situações diferentes.
